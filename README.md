@@ -1,6 +1,6 @@
 # DJACM-website
 
-<h1>Description:</h1>
+<h3>Description:</h3>
 This website was developed for one the best student chapters of my college, D J Sanghvi college of Engineering, Mumbai. DJ-ACM was a known student chapter for all their innovative events, workshops and technical and info-tech team.
 
 This was made in 2013 as the official ACM website. It was made as a one page website which was a trend and state-of-the-art that time. It has a good amount of visual beauty and simplicity. 
