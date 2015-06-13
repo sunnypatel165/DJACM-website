@@ -7,7 +7,10 @@ This was made in 2013 as the official ACM website. It was made as a one page web
 The technologies used mostly are-n HTML, CSS, JavaScript, jQuery etc. 
 Some open source tools lioke FancyBox were also used.
 
+Here's a <a href="https://rawgit.com/sunnypatel165/DJACM-website/master/index.html">rawgit demo</a> for the same. 
+
+
 
 <b>NOTE:</b>
-I did not create the entire site, it was made by a team of 5 under our webmaster with his great guidance. Credits at the bottm of the site page itself.
+I did not create the entire site, it was made by a team of 5 under our webmaster with his great guidance. Credits at the bottm of the site page itself(see the link)
 
